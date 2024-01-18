@@ -9,7 +9,7 @@ An application for automating email replies when you're on vacation using Gmail'
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
+
 
 ## Introduction
 
@@ -52,7 +52,4 @@ Before you begin, ensure you have met the following requirements:
 4. Enjoy your vacation without worrying about email replies!
 
 
-  ## License
-  
-This project is licensed under the MIT License
  
