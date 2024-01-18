@@ -1,0 +1,18 @@
+{
+  "name": "autoreply_email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "google-auth-library": "^9.4.2",
+    "googleapis": "^131.0.0",
+    "nodemailer": "^6.9.8"
+  }
+}
