@@ -35,8 +35,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/aaaa760/openinapp.git
-   cd openinapp
+   git clone https://github.com/atulsaini04/Autoreply_email.git
    npm install
 
 
@@ -45,7 +44,7 @@ Before you begin, ensure you have met the following requirements:
 1. Start the application
 
     ```shell
-   node index.js
+   node app.js
 
    
 2. Access the application in your web browser at http://localhost:8000.
